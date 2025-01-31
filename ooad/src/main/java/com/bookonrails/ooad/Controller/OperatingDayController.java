@@ -1,3 +1,8 @@
+// The controller facilitates retrieval of train operating days by exposing RESTful endpoints that:
+
+// Fetch all operating days from the system.
+// Fetch the specific operating days of a train based on its train number.
+
 package com.bookonrails.ooad.Controller;
 
 import java.util.ArrayList;
