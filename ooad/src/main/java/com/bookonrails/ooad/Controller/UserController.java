@@ -1,3 +1,9 @@
+// The UserController enables the backend to:
+
+// Register new users (signup).
+// Authenticate users (login).
+// Update user profiles.
+// Allow users to change their passwords.
 package com.bookonrails.ooad.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
